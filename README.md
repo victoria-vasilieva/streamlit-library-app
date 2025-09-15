@@ -124,7 +124,7 @@ Database created with `Lianes_Library.sql`.
 
 - [`Lianes_Library.sql`](Lianes_Library.sql) – SQL script to create and populate the database
 - [`Login.py`](Login.py) – Main Streamlit application code
-- [Live demo on Streamlit Cloud](https://github.com/victoria-vasilieva/streamlit-library-app/blob/main/Lianes_Library.sql](https://lianes-library-demo.streamlit.app/) – Browser-accessible version of the app
+- [Live demo on Streamlit Cloud](https://lianes-library-demo.streamlit.app/) – Browser-accessible version of the app
 
 
 
