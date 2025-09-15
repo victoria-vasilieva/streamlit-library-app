@@ -18,7 +18,7 @@ This project demonstrates my ability to:
 - integrate SQL with Python,  
 - and build interactive apps with Streamlit.  
 
-👉 [Live Demo (SQLite version)](https://github.com/victoria-vasilieva/streamlit-library-app/blob/main/Lianes_Library.sql)  
+👉 [Live Demo (SQLite version)](https://lianes-library-demo.streamlit.app/)  
 
 ---
 
