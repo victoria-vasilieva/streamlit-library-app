@@ -111,7 +111,7 @@ Database created with `Lianes_Library.sql`.
 
 ### 4.2 SQL–Python Integration
 
-- The file [`library_connection.py`](library_connection.py) establishes a secure connection to the database using SQLAlchemy.
+- The file [`library_connection.py`](https://github.com/victoria-vasilieva/streamlit-library-app/blob/main/GroupWork/library_connection.py) establishes a secure connection to the database using SQLAlchemy.
 
 ### 4.3 Streamlit Application & Deployment
 
